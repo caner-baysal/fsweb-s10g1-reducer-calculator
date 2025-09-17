@@ -1,4 +1,5 @@
 {
+  "start": "node server.js",
   "name": "fsweb-s10g1-reducer",
   "version": "0.1.0",
   "private": true,
@@ -36,3 +37,4 @@
     ]
   }
 }
+
